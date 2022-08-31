@@ -1,0 +1,4 @@
+/mnt/d/LW/WORKING/CMake_Practice/cmake_practice_05_modern_cmake_simple/build/CMakeFiles/edit_cache.dir
+/mnt/d/LW/WORKING/CMake_Practice/cmake_practice_05_modern_cmake_simple/build/CMakeFiles/practice5executable.dir
+/mnt/d/LW/WORKING/CMake_Practice/cmake_practice_05_modern_cmake_simple/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/LW/WORKING/CMake_Practice/cmake_practice_05_modern_cmake_simple/build/CMakeFiles/mylib.dir
